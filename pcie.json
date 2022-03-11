@@ -1,0 +1,8 @@
+{
+    "version": "gen3",
+    "num_lanes": "8",
+    "encoding": "128b/130b",
+    "dll_overhead": 0.1,
+    "MPS": 256,
+    "MRRS": 512
+}
